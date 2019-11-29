@@ -1,2 +1,0 @@
-# guramata
-Main Repository
